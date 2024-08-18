@@ -1,5 +1,5 @@
-#  Problems 
-   solutions for:  
+
+solutions for:  
  -------------------
 LeetCode
 CodeForces
